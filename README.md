@@ -15,7 +15,7 @@ thanks for stopping by!
 
 ---
 
-### 🛠️ Tech & Tools  
+### tech 
 `C` · `C++` · `Python` · `Java` · `React` · `AWS` · `Verilog` · `MATLAB` · `FreeRTOS` · `STM32` · `Altium`  
 
 ---
