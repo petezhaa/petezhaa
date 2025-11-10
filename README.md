@@ -1,16 +1,37 @@
-## Hi I'm pretty chill. Thanks for coming
+## Hey, I'm Peter 👋  
+thanks for stopping by!
 
-<!--
-**petezhaa/petezhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### me  
+- I like math, ee and cs
+- I like movies (*Gummo*, *Wall-E*, *Death of a Salesman*, *Ultraseven*, *Oppenhimer*)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### fun facts  
+- i don't have any lol
+- first gen
+
+---
+
+### 🛠️ Tech & Tools  
+`C` · `C++` · `Python` · `Java` · `React` · `AWS` · `Verilog` · `MATLAB` · `FreeRTOS` · `STM32` · `Altium`  
+
+---
+
+### i like learning
+- asic design & verification  
+- signal processing
+- functional analysis
+
+---
+
+### socials  
+- [peterzhaoofficial@gmail.com](mailto:peterzhaoofficial@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/peterwilsonzhao/)  
+- [Portfolio](https://petezhaa.github.io)
+
+---
+
+> “ngmi”
